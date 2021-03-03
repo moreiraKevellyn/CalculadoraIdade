@@ -1,0 +1,22 @@
+body {
+    background: #D7DE69;
+    font: normal 15pt Arial;
+    }
+    
+    header {
+        text-align: center;
+        color: #fff;
+    }
+    
+    section{
+        background: #fff;
+        text-align: center;
+        max-width: 500px;
+        margin: auto;
+        padding: 15px;
+        border-radius: 15px;
+    }
+    footer{
+        text-align: center;
+        color: #fff;
+    }
